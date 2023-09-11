@@ -1,6 +1,7 @@
 
-### Olá, sou a Bianca Veronez! 
-<br>
+## Olá, sou a Bianca Veronez! 
+
+### Seja bem vindo! Aceita um café? :coffee:	
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=biveronez&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biveronez&layout=compact&theme=dracula#gh-dark-mode-only)
