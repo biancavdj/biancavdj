@@ -1,5 +1,5 @@
 
-### Olá, sou a Bianca Veronez! Este é meu início no GIT-GITHUB. 
+### Olá, sou a Bianca Veronez! 
 <br>
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=biveronez&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
