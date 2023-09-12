@@ -1,7 +1,7 @@
 
 ## Olá, sou a Bianca Veronez! 
 
-### Seja bem vindo! Aceita um café? :coffee:	
+### Seja bem vindo! :coffee:	
 - Iniciante em programação desde 2020!
 - Atualmente cursando Informática para Negócios pela FATEC
 - Desenvolvimento de Sistemas pela ETEC
