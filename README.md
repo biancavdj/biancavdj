@@ -10,8 +10,7 @@
 ## Me contate:
 
 <div>
-<a href = "mailto:contato@biancavjrp@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/bianca-veronez-de-jesus-01408b205" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href = "mailto:contato@biancavjrp@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>
 
 <br>
@@ -20,3 +19,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biveronez&layout=compact&theme=dracula#gh-dark-mode-only)
 
 <img src="https://i.picasion.com/pic92/934c5fd023f6ac47ab133254e47be78e.gif" align="right" width="120" height="120" border="0" alt=""/></a>
+
+![Snake animation](https://github.com/biveronez/biveronezi/blob/output/github-contribution-grid-snake.svg)
