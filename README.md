@@ -3,7 +3,7 @@
 
 ### Seja bem vindo! :coffee:	
 
-- Um amor por tecnologias Front-End e iniciante na programação! 
+- Um amor por tecnologias Front-End e iniciante em programação! 
 - Atualmente cursando Informática para Negócios pela FATEC
 - Desenvolvimento de Sistemas pela ETEC
 
