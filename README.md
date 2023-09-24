@@ -3,9 +3,19 @@
 
 ### Seja bem vindo! :coffee:	
 
-- Um amor por tecnologias Front-End! 
+- Um amor por tecnologias Front-End e iniciante na programação! 
 - Atualmente cursando Informática para Negócios pela FATEC
 - Desenvolvimento de Sistemas pela ETEC
+
+## Me contate:
+
+<div>
+
+<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+<a href = "mailto:contato@biancavjrp@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/bianca-veronez-de-jesus-01408b205" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
   
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=biveronez&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biveronez&layout=compact&theme=dracula#gh-dark-mode-only)
