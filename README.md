@@ -20,5 +20,4 @@
 
 <img src="https://i.picasion.com/pic92/934c5fd023f6ac47ab133254e47be78e.gif" align="right" width="120" height="120" border="0" alt=""/></a>
 
-![Snake animation](https://github.com/biveronez/biveronez/blob/output/github-contribution-grid-snake.svg)
 
