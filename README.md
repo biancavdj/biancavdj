@@ -1,5 +1,5 @@
 
-## Olá, sou a Bianca Veronez! 
+
 
 ### Seja bem vindo! :coffee:	
 
