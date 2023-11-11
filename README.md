@@ -3,7 +3,7 @@
 
 ### Seja bem vindo! :coffee:	
 
-- Um amor por tecnologias Front-End e iniciante em programação! 
+- Iniciante em programação! 
 
 
 ## Me contate:
