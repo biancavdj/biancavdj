@@ -3,8 +3,7 @@
 
 ### Seja bem vindo! :coffee:	
 
-- Iniciante em programação! 
-
+- Aspirante em tecnologia!
 
 ## Me contate:
 
