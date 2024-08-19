@@ -1,7 +1,7 @@
 
 
 
-### Seja bem vindo! :coffee:	
+### Olá! :coffee:	
 
 
 ## Contato Principal:
